@@ -6,10 +6,7 @@ This project is a part of my computer vision task that implements a **Convolutio
 ## 📂 Project Structure
 
 * `Notebook_Deteksi_COVID_19.ipynb` – Jupyter Notebook containing the full implementation.
-* `dataset/` – Folder containing X-ray image data categorized into:
-
-  * `covid/`
-  * `non_covid/`
+* `Laporan Klasifikasi Gambar X-Ray.pdf` – Report file of the code implementation
 
 ## 🔍 Features
 
@@ -71,6 +68,3 @@ This project is a part of my computer vision task that implements a **Convolutio
 Computer Science, Universitas Gadjah Mada
 NIM: 23/513931/PA/21967
 
----
-
-Jika kamu ingin aku bantu membuat `requirements.txt` atau menambahkan visualisasi arsitektur CNN dalam README ini, tinggal bilang ya!
