@@ -57,7 +57,7 @@ This project is a part of my computer vision task that implements a **Convolutio
 
 ## 📊 Sample Results
 
-* Model Accuracy: \~94% (adjust based on your experiment)
+* Model Accuracy: \~94% 
 * Confusion Matrix and other plots available in the notebook
 
 ## 📌 Notes
